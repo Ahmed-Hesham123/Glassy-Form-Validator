@@ -4,7 +4,7 @@ Simple client side form validation. Check requird, length, email and password ma
 
 ## Project Specifications
 
-- Create form UI
+- Create form UI with amazing transitions and glassmorphism
 - Show error messages under specific inputs
 - checkRequired() to accept array of inputs
 - checkLength() to check min and max length
